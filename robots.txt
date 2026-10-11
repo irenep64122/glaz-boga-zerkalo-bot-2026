@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://irenep64122.github.io/glaz-boga-zerkalo-bot-2026/sitemap.xml
